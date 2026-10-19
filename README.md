@@ -1,1 +1,134 @@
-# 5inch-3s-fpv-drone
+# 🚁 5-Inch FPV Drone Build
+
+<p align="center">
+  <strong>A DIY 5-inch FPV quadcopter built for learning, experimenting, and flying.</strong>
+</p>
+
+<p align="center">
+  🎥 <strong>Watch the Full Build & Flight Video</strong><br>
+  <a href="YOUR_YOUTUBE_VIDEO_URL">▶ Watch on YouTube</a>
+</p>
+
+---
+
+## 📸 Drone Overview
+
+<p align="center">
+  <img src="images/fpv-drone-thumbnail.jpg" alt="My DIY 5-inch FPV Drone" width="800">
+</p>
+
+This project documents my custom-built **5-inch FPV drone**, including its hardware, electronics, radio control system, and FPV video setup.
+
+The goal of this build is to explore FPV flight, understand drone electronics, and gain hands-on experience with flight controllers, ESCs, motors, radio systems, and analog video transmission.
+
+## ⚙️ Build Specifications
+
+| Component | Specification |
+|---|---|
+| Drone Type | DIY FPV Quadcopter |
+| Frame Size | 5-inch |
+| Flight Controller | BotWing F405 |
+| ESCs | 4 × 35A BLHeli_S J-H-30 |
+| Motors | 2400KV brushless motors |
+| Battery | 3S LiPo, 1500mAh |
+| Radio Receiver | FlySky 6-channel with iBUS |
+| FPV Camera | RunCam Phoenix 2 SP V3 |
+| Video Transmitter | SpeedyBee TX800 |
+| FPV Goggles | Eachine EV800D |
+| Antenna | GEPRC Momoda 2 RHCP SMA |
+| Flight Controller Firmware | Betaflight |
+
+## 🧩 Components & Parts
+
+### 1. Flight Control System
+- **Flight Controller:** BotWing F405
+- **Firmware:** Betaflight
+- **Gyroscope:** ICM42688P
+- **ESCs:** 4 × 35A BLHeli_S J-H-30
+
+### 2. Propulsion System
+- **Motors:** 2400KV brushless motors
+- **Propellers:** 5-inch propellers
+- **Battery:** 3S 1500mAh LiPo
+
+### 3. Radio Control System
+- **Transmitter:** FlySky-compatible radio transmitter
+- **Receiver:** FlySky 6-channel receiver
+- **Communication Protocol:** iBUS
+
+### 4. FPV Video System
+- **FPV Camera:** RunCam Phoenix 2 SP V3
+- **Video Transmitter (VTX):** SpeedyBee TX800
+- **FPV Goggles:** Eachine EV800D
+- **Antenna:** GEPRC Momoda 2 RHCP SMA
+
+### 5. Software & Configuration
+- Betaflight Configurator
+- Betaflight flight controller firmware
+- iBUS receiver configuration
+- Flight modes and failsafe configuration
+- Analog FPV video transmission
+
+## 🔧 Build & Configuration
+
+The drone was assembled by integrating the flight controller, ESCs, motors, receiver, battery, and FPV system into a 5-inch quadcopter frame.
+
+The flight controller was configured using Betaflight Configurator to set up the receiver, flight modes, motor outputs, and other essential parameters.
+
+**Important:** Always remove the propellers when configuring the flight controller or testing motors on the bench.
+
+## 🚀 Features
+
+- Custom-built 5-inch FPV quadcopter
+- Betaflight-based flight control
+- Brushless motor propulsion
+- FlySky iBUS radio control
+- Analog FPV video transmission
+- DIY assembly and configuration
+- Built for hands-on learning and experimentation
+
+## 📂 Repository Contents
+
+```text
+FPV-drone/
+├── README.md
+├── images/
+│   └── fpv-drone-thumbnail.jpg
+├── configuration/
+│   └── (Betaflight configuration files, if included)
+└── documentation/
+    └── (Build notes and wiring diagrams, if included)
+```
+
+*The folders shown above are a suggested structure. Add the folders and files as needed.*
+
+## 🎥 Watch the Build in Action
+
+See the complete build, setup, and flight footage on YouTube:
+
+**[Watch My FPV Drone Video](YOUR_YOUTUBE_VIDEO_URL)**
+
+## ⚠️ Safety Notes
+
+- Remove propellers before bench testing motors.
+- Check propeller orientation, motor direction, and failsafe settings before flying.
+- Inspect the frame, battery, wiring, and propellers before each flight.
+- Fly in suitable open areas, away from people, buildings, and restricted airspace.
+- Follow applicable local drone regulations.
+
+## 👨‍💻 About the Project
+
+This is one of my DIY electronics and engineering projects, where I explore embedded systems, hardware integration, and FPV technology.
+
+Built and documented by **Suraj Maru**.
+
+- GitHub: [@surajmaru](https://github.com/surajmaru)
+- YouTube: [@logicsuru](https://www.youtube.com/@logicsuru)
+
+If you're interested in DIY drones, electronics, and embedded systems, feel free to explore the repository!
+
+---
+
+<p align="center">
+  <strong>Built from parts. Configured by hand. Flown for real. 🚁</strong>
+</p>
