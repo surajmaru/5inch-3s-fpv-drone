@@ -22,12 +22,12 @@ The goal of this build is to explore FPV flight, understand drone electronics, a
 | Component | Specification |
 |---|---|
 | Drone Type | DIY FPV Quadcopter |
-| Frame Size | 5-inch |
+| Frame | MK4 5-inch |
 | Flight Controller | BotWing F405 |
 | ESCs | 4 × 35A BLHeli_S J-H-30 |
 | Motors | 2400KV brushless motors |
 | Battery | 3S LiPo, 1500mAh |
-| Radio Receiver | FlySky 6-channel with iBUS |
+| Radio TX & RX | FlySky FS-i6 & its receiver |
 | FPV Camera | RunCam Phoenix 2 SP V3 |
 | Video Transmitter | SpeedyBee TX800 |
 | FPV Goggles | Eachine EV800D |
