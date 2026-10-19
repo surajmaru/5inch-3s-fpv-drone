@@ -73,36 +73,12 @@ The flight controller was configured using Betaflight Configurator to set up the
 
 **Important:** Always remove the propellers when configuring the flight controller or testing motors on the bench.
 
-## 🚀 Features
-
-- Custom-built 5-inch FPV quadcopter
-- Betaflight-based flight control
-- Brushless motor propulsion
-- FlySky iBUS radio control
-- Analog FPV video transmission
-- DIY assembly and configuration
-- Built for hands-on learning and experimentation
-
-## 📂 Repository Contents
-
-```text
-FPV-drone/
-├── README.md
-├── images/
-│   └── fpv-drone-thumbnail.jpg
-├── configuration/
-│   └── (Betaflight configuration files, if included)
-└── documentation/
-    └── (Build notes and wiring diagrams, if included)
-```
-
-*The folders shown above are a suggested structure. Add the folders and files as needed.*
 
 ## 🎥 Watch the Build in Action
 
 See the complete build, setup, and flight footage on YouTube:
 
-**[Watch My FPV Drone Video](YOUR_YOUTUBE_VIDEO_URL)**
+**[Watch My FPV Drone Video](https://youtu.be/UZK0c8iGG5w)**
 
 ## ⚠️ Safety Notes
 
@@ -126,5 +102,5 @@ If you're interested in DIY drones, electronics, and embedded systems, feel free
 ---
 
 <p align="center">
-  <strong>Built from parts. Configured by hand. Flown for real. 🚁</strong>
+  <strong>Built from parts. Configured by hand. Flown for real.</strong>
 </p>
