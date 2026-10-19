@@ -1,6 +1,6 @@
 # 5-Inch FPV Drone Build
 
-<p align="center">
+<p align="">
   <strong>Watch the Full Build & Flight Video</strong><br>
   <a href="https://youtu.be/UZK0c8iGG5w">▶ Watch on YouTube</a>
 </p>
