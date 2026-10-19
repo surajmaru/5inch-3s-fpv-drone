@@ -1,8 +1,4 @@
-# 🚁 5-Inch FPV Drone Build
-
-<p align="center">
-  <strong>A DIY 5-inch FPV quadcopter built for learning, experimenting, and flying.</strong>
-</p>
+# 5-Inch FPV Drone Build
 
 <p align="center">
   🎥 <strong>Watch the Full Build & Flight Video</strong><br>
@@ -14,7 +10,7 @@
 ## 📸 Drone Overview
 
 <p align="center">
-  <img src="images/fpv-drone-thumbnail.jpg" alt="My DIY 5-inch FPV Drone" width="800">
+<img width="4608" height="2592" alt="IMG_20261009_071028" src="https://github.com/user-attachments/assets/7b2589e8-ebc8-4ea7-a828-c6ff9988bb11" />
 </p>
 
 This project documents my custom-built **5-inch FPV drone**, including its hardware, electronics, radio control system, and FPV video setup.
